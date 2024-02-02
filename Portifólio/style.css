@@ -7,6 +7,8 @@
 
 body{
 
+    height: 100vh;
+    box-sizing: border-box; 
     background-color:black;
     color:white;
 
@@ -15,5 +17,12 @@ body{
 strong{
 
     color:aqua;
+
+}
+
+.apresentacao {
+
+    display: flex;
+    align-items: center;
 
 }
