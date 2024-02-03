@@ -22,7 +22,9 @@ strong{
 
 .apresentacao {
 
+    margin: 5%;
     display: flex;
     align-items: center;
+    justify-content: space-between;
 
 }
