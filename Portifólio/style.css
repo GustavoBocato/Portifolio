@@ -16,15 +16,40 @@ body{
 
 strong{
 
-    color:aqua;
+    color: aqua;
 
 }
 
 .apresentacao {
 
-    margin: 5%;
+    margin: 10%;
     display: flex;
     align-items: center;
     justify-content: space-between;
+
+}
+
+.apresentacao__conteudo {
+
+    width: 1000px;
+    height: 200px;
+
+}
+
+.apresentacao__conteudo__titulo {
+
+    font-size: 35px;
+
+}
+
+.apresentacao__conteudo__paragrafo {
+
+    font-size: 23px;
+
+}
+
+.apresentacao__conteudo__links {
+
+    font-size: 20px;
 
 }
