@@ -1,3 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Sixtyfour&display=swap');
+
+h1 {
+
+    font-family: "Times New Roman", Times, serif;
+
+}
+
 * {
 
     margin: 0;
@@ -11,6 +19,7 @@ body{
     box-sizing: border-box; 
     background-color:black;
     color:white;
+    font-family: 'Sixtyfour', sans-serif;
 
 }
 
@@ -32,19 +41,20 @@ strong{
 .apresentacao__conteudo {
 
     width: 1000px;
-    height: 200px;
+    height: 400px;
 
 }
 
 .apresentacao__conteudo__titulo {
 
+    margin: 5%;
     font-size: 35px;
 
 }
 
 .apresentacao__conteudo__paragrafo {
 
-    font-size: 23px;
+    font-size: 20px;
 
 }
 
@@ -53,3 +63,17 @@ strong{
     font-size: 20px;
 
 }
+
+footer {
+
+    font-family: "Times New Roman", Times, serif;
+    font-size: 20px;
+
+}
+
+p {
+
+    text-align: justify;
+
+}
+  
