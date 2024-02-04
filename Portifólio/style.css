@@ -60,7 +60,23 @@ strong{
 
 .apresentacao__conteudo__links {
 
+    display: flex;
+    justify-content: space-between;
     font-size: 20px;
+
+}
+
+.apresentacao__conteudo__links__link {
+
+    text-align: center;
+    width: 45%;
+    margin: 3%;
+    text-decoration: none;
+    color:black;
+    background-color: aqua;
+    font-family: "Times New Roman", Times, serif;
+    padding: 3% 0;
+    border-radius: 8%;
 
 }
 
