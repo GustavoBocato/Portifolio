@@ -40,6 +40,9 @@ strong{
 
 .apresentacao__conteudo {
 
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
     width: 60%;
     height: 30%;
 
@@ -47,8 +50,9 @@ strong{
 
 .apresentacao__conteudo__titulo {
 
-    margin: 3%;
-    font-size: 35px;
+    display: flex;
+    justify-content: center;
+    font-size: 25px;
 
 }
 
