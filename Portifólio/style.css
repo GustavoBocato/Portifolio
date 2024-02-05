@@ -20,20 +20,15 @@ body{
     background-color:black;
     color:white;
     font-family: 'Sixtyfour', sans-serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
 
 }
 
 strong{
 
     color: aqua;
-
-}
-
-body{
-
-    display: flex;
-    flex-direction: column;
-    justify-content: space-evenly;
 
 }
 
@@ -50,7 +45,7 @@ body{
     display: flex;
     flex-direction: column;
     justify-content: space-evenly;
-    gap: 20px;
+    gap: 40px;
     width: 60%;
     height: 30%;
 
@@ -82,7 +77,6 @@ body{
 
     text-align: center;
     width: 45%;
-    margin: 3%;
     text-decoration: none;
     color:black;
     background-color: aqua;
