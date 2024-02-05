@@ -53,8 +53,7 @@ strong{
 
 .apresentacao__conteudo__titulo {
 
-    display: flex;
-    justify-content: center;
+    text-align: center;
     font-size: 25px;
 
 }
@@ -76,7 +75,7 @@ strong{
 .apresentacao__conteudo__links__link {
 
     text-align: center;
-    width: 45%;
+    width: 30%;
     text-decoration: none;
     color:black;
     background-color: aqua;
